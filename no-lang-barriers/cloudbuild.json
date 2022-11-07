@@ -5,7 +5,7 @@
           "args": [
              "build",
              "-t",
-             "us-central1-docker.pkg.dev/${PROJECT_ID}/my-docker-repo/myimage",
+             "europe-west1-docker.pkg.dev/p/${PROJECT_ID}/my-docker-repo/myimage",
              "."
           ]
        }
